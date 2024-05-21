@@ -8,7 +8,7 @@ console.log(randomCar)
 console.log(otherRandomCar)
 
 
-// The Output is ==>
+//! The Output is ==> Tesla , Mercedes
 
 //2
 
@@ -23,7 +23,7 @@ console.log(name);
 console.log(otherName);
 
 
-// The Output is ==>
+//! The Output is ==> error , Elon
 
 
 //3
@@ -40,7 +40,7 @@ console.log(password);
 console.log(hashedPassword);
 
 
-// The Output is ==>
+//! The Output is ==> 12345 , error
 
 
 //4
@@ -54,7 +54,7 @@ console.log(first == second);
 console.log(first == third);
 
 
-// The Output is ==>
+//! The Output is ==> 5 , 2
 
 
 
@@ -74,4 +74,4 @@ console.log(secondKey[0]);
 console.log(willThisWork);
 
 
-// The Output is ==>
+//! The Output is ==> value , [1,5,1,8,3,3] , 1 , 5
